@@ -1,4 +1,4 @@
-AWS EKS Terraform Example 
+Automate provisioning EKS cluster on AWS using Terraform
 
 1. terraform init
 2. terraform plan
